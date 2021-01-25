@@ -1,12 +1,4 @@
 
-function myMap() {
-var mapOptions = {
-center: new google.maps.LatLng(40.2, -8.40),
-zoom: 10,
-mapTypeId: google.maps.MapTypeId.HYBRID
-};
-var map = new google.maps.Map(document.getElementById("map"), mapOptions);
-}
 
 
 var slideIndex = 1;
